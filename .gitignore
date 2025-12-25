@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Build
+build/
+dist/
+release/
+installer/
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
